@@ -1,0 +1,6 @@
+# MATLAB autosave
+*.asv
+
+# Generated compressed files (re-created by run_all / the GUI)
+*.bin
+test_kirpik.png
